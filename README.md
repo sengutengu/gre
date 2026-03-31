@@ -18,3 +18,5 @@ Key of abbreviations:
 - Gr - German
 - It - Italian
 - cf - conferare "compare"
+- sth - something
+- qqc - quelque chose ("something" in French)

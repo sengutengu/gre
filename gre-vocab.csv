@@ -6,41 +6,41 @@ approbation,approval,"doublet of ""approval""",Positive
 comity,courtesy; mutual civility,,Positive
 deportment,a person's behavior or manners,,Positive
 equanimity,mental composure esp. in difficult situation,"Lt. aequ-animus ""equal mind""",Positive
-stolid,"calm, dependable, showing little emotion","Lt. stolidus ""stupid, foolish"" ? ""calm""",Positive
+stolid,"calm, dependable, showing little emotion","Lt. stolidus ""stupid, foolish"" > ""calm""",Positive
 phlegmatic,"unemotional, stolid disposition",4 humors: phlegmatic - choleric - melancholic - sanguine,Positive
 aplomb,self-confidence in a demanding situation,"Fr. fil à plomb ""plumb line""",Positive
-canny,shrewdness & good judgment,"Eng. can ""know""; cf. Ger. kennen, Scots ken",Positive
+canny,shrewdness & good judgment,"cf. Gr. kennen, Scots ken ""know""",Positive
 pellucid,translucently clear; easily understood,Zona pellucida = transparent zone in egg,Positive
 limpid,completely clear,"same root as ""lamp""",Positive
 sedulous,showing dedication and diligence,"Lt. sedulus ""zealous""",Positive
-pertinacious,holding firmly to some conviction,"Lt. pertinax ""holding fast""",Positive
+pertinacious,holding firmly to some conviction,"cf. ""pertain""",Positive
 mettlesome,full of spirit and courage,"Beware not ""nettlesome""",Positive
 panache,flamboyant confidence,"Lt. pinna ""feather""",Positive
-alacrity,cheerful readiness,"Lt. alacer ""brisk""",Positive
-jocund,cheerful and lighthearted,"Lt. jucundus ""pleasant""; Mona Lisa is ""La Joconde""",Positive
+alacrity,cheerful readiness,"Lt. alacer ""brisk""; ""do with alacrity""",Positive
+jocund,cheerful and lighthearted,"Mona Lisa is ""La Joconde""",Positive
 raillery,good-humored teasing,,Positive
-salubrious,health-giving; healthy; pleasant,Hollow Knight Salubra,Positive
+salubrious,health-giving; healthy; pleasant,Hollow Knight: Salubra,Positive
 salutary,beneficial; health-giving,,Positive
 munificent,more generous than necessary (of a gift),,Positive
 largesse,generosity in giving,,Positive
-propitious,favorable,,Positive
+propitious,favorable,Fr. propice à qqc ,Positive
 exculpate,show that sb is not guilty,exculpatory evidence,Positive
 aver,assert to be true,"Lt. ad-verus ""toward-truth""",Neutral
-brook,tolerate or allow,"Ger. brauchen ""need""",Neutral
+brook,tolerate or allow,"cf. Lt. frux ""fruit"" as in something to be had",Neutral
 forestall,prevent by acting in advance,,Neutral
-abate,subside; remove,"OF abatre ""fell""; noise abatement; abattoir",Neutral
-obviate,remove or prevent a problem,"cf. Lt. via ""way""",Neutral
-extemporize,improvise,,Neutral
+abate,subside; remove,"OF abatre ""fell""; cf. ""noise abatement"", ""abattoir""",Neutral
+obviate,bypass or prevent a need,"Lt. ob-via ""against-way""",Neutral
+extemporize,improvise,"Lt. ex-tempore ""directly out of moment""",Neutral
 retrench,reduce in response to economic difficulty,"Fr. trancher ""cut""",Neutral
-stanch,stop bleeding from a wound,doublet of staunch,Neutral
-apposite,appropriate,,Neutral
+stanch,stop bleeding from a wound,"doublet of ""staunch""",Neutral
+apposite,appropriate,"Lt. ad-ponere ""toward-put""",Neutral
 apropos,with regard to; appropriate,Fr. à propos de qqc,Neutral
 expatiate,speak or write at great length,"""expatiate on sth""",Neutral
 synoptic,forming a general summary or synopsis,,Neutral
 allusive,working by allusion,,Neutral
 mordant,"biting, sharp (of humor)","Fr. mordre ""bite""",Neutral
 dirge,a lament for the dead,"Lt. dirige ""direct""",Neutral
-fungible,interchangeable; replaceable,Non-fungible token,Neutral
+fungible,interchangeable; replaceable,"""non-fungible token""",Neutral
 recondite,little known; abstruse,"Lt. reconditus ""hidden""",Neutral
 sinecure,a job with status but little work,"Lt. sine cura ""without care""",Neutral
 manacle,handcuffs,,Neutral
@@ -48,7 +48,7 @@ supplicate,ask or beg humbly,supplication to God,Neutral
 obeisance,deferential respect,OF obeissance,Neutral
 predilection,a bias or preference for sth,"Lt. diligere ""love""",Neutral
 recant,renounce former beliefs,,Neutral
-abjure,solemnly renounce a belief,,Neutral
+abjure,solemnly renounce a belief,"Lt. ab-jurare ""away-swear""",Neutral
 antedate,precede in time,,Neutral
 prefigure,be an early indicator of sth,,Neutral
 erstwhile,former,"Genshin Impact: Dvalin, erstwhile king of the skies",Neutral
@@ -72,7 +72,7 @@ implacable,unable to be placated,,Negative
 hidebound,unwilling to change due to tradition,originally referred to malnourished cattle,Negative
 doctrinaire,imposing doctrine without regard for practicality,,Negative
 mendacity,habitual deceit,"Fr. menteur ""liar""",Negative
-beguile,charm or deceive,"Eng. guile ""deceive""; cf. guileless ""innocent""",Negative
+beguile,charm or deceive,"En. guile ""deceive""; cf. guileless ""innocent""",Negative
 inveigle,persuade by deception,,Negative
 wheedle,persuade by flattery,,Negative
 belie,misrepresent; give a false impression of,"make sth ""be a lie""",Negative
@@ -102,9 +102,9 @@ pomposity,the quality of being pompous,,Negative
 temerity,reckless audacity,"""have the temerity to do sth""",Negative
 truculent,aggressively defiant,"Lt. trux ""fierce""",Negative
 obstreperous,noisy and difficult to control,"Lt. strepere ""make noises""",Negative
-fractious,unruly; quarrelsome,cf. factious,Negative
+fractious,unruly; quarrelsome,"from ""fraction"" by analogy to ""factious"" from ""faction""",Negative
 officious,asserting authority in an annoying way,,Negative
-martinet,a strict disciplinarian,Jean Martinet was a French drill master,Negative
+martinet,a strict disciplinarian,Jean Martinet: French drill master,Negative
 punctilious,excessively meticulous about correct behavior,"Fr. pointilleux ""finicky""",Negative
 fervid,excessively enthusiastic or passionate,"Lt. fervere ""boil""",Negative
 diffident,shy; lacking self-confidence,"Lt. dis-fidere ""not trust""",Negative
@@ -112,34 +112,34 @@ timorous,showing excessive nervousness or fear,"Lt. timor ""fear""",Negative
 irresolute,not resolute; hesitant,,Negative
 craven,contemptibly cowardly,"OF cravanter ""defeat""; Wes Craven",Negative
 lassitude,physical or mental weariness,"Lt. lassus ""tired""",Negative
-dilatory,slow; causing delay,dilating time,Negative
-perfunctory,carried out with minimum effort or thought,,Negative
+dilatory,slow; causing delay,"""dilating time""",Negative
+perfunctory,carried out with minimum effort or thought,"Lt. ""per-"" usually an intensifier but not here",Negative
 desultory,lacking a plan or purpose,"Lt. desultorius ""superficial""",Negative
 soporific,tending to induce sleep,"Lt. sopor ""sleep""",Negative
 somnolent,sleepy; tending to induce sleep,,Negative
 enervate,drain sb of energy or vitality,Lt. e-nervare = remove sinews from,Negative
-humdrum,monotonous; lacking variety,"En. ""hum""",Negative
+humdrum,monotonous; lacking variety,"En. reduplication of ""hum""",Negative
 bromide,"a trite, unoriginal remark",Bromide salts depress the central nervous system,Negative
 hackneyed,trite and unoriginal,"En. hackney ""horse for ordinary riding""",Negative
 prosaic,lacking poetic beauty; commonplace,"Prose, not poetry",Negative
 insipid,flavorless; dull; vapid,"Lt. sapere ""taste""",Negative
 prolix,tediously long or wordy,"Lt. pro-liquere ""outward liquid""",Negative
 voluble,talking fluently or incessantly,"Lt. volvere ""roll""",Negative
-garrulous,excessively talkative,"Lt. garrire ""chatter""",Negative
+garrulous,excessively talkative,"cognate with En. ""care"" as ""lamentation""",Negative
 lugubrious,sad and dismal in appearance,"Lt. lugere ""mourn""",Negative
 mawkish,sentimental in a feeble or sickly way,"ME mawk ""maggot""",Negative
 bereft,lacking something; desolate,"past participle of ""bereave""",Negative
 invidious,arousing resentment or envy in others,cf. envy,Negative
-querulous,petulant; habitually whining,,Negative
-prurient,excessively interested in sexual matters,as in having a mental itching,Negative
-discomfit,embarrass; make feel uneasy,,Negative
+querulous,petulant; habitually whining,"cf. ""quarrel"" cognate",Negative
+prurient,excessively interested in sexual matters,"Lt. prurio ""itch"" as in mental itching",Negative
+discomfit,embarrass; make feel uneasy,"Lt. des-con-facere ""un-make""",Negative
 dowdy,unfashionably or shabbily dressed,,Negative
 callow,inexperienced and immature,"cf. Lt. calvus ""bald"" as in ""unfledged""",Negative
 inchoate,not yet fully developed; rudimentary,"""an inchoate democracy""",Negative
-parochial,having a narrow or limited outlook,"""limited to a parish""",Negative
-impetuous,acting quickly and carelessly,"Lt. impetere ""attack""",Negative
+parochial,having a narrow or limited outlook,"as in ""limited to a parish""",Negative
+impetuous,acting quickly and carelessly,"Lt. impetus ""attack, violence""",Negative
 astringent,acidic or bitter; harshly critical,,Negative
-abstruse,obscure; difficult to understand,"Lt. abs-trudere ""push away, conceal""",Negative
+abstruse,obscure; difficult to understand,"Lt. abs-trudere ""push away, conceal"" cf. ""extrude""",Negative
 penurious,poverty-stricken; miserly,"Lt. penuria ""need""; opposite of pecunious!",Negative
 portend,warn of something bad in the future,"Lt. pro-tendere ""stretch forth""",Negative
 presage,warn of something bad in the future,,Negative
